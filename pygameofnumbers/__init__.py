@@ -1,0 +1,1 @@
+from pygameofnumbers.game import *
